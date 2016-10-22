@@ -1,0 +1,11 @@
+"glint": "Malgré l'allure que vous pensez avoir vu, il me semble qu'il n'y a rien de spécial ici.",
+    "noStock": "Désolé, je suis en rupture de stock ...",
+    "gold": "Or",
+    "notEnough": "Vous n'avez pas assez {$0} pour faire ceci",
+    "cancel": "Annulez",
+    "updateAvailable": "Une mise à jour, pour {$0} à la version ={$1}= est disponible. On vous conseille de l'installer. Visitez >{$2}@ pour la trouver. Si vous ne voulez pas recevoir des avis en-jeu comme ceci, vous pouvez le changer dans le document .config",
+    "updateRequired": "La version de {$0} que vous utilisez est devenu vraiment dépassée. Dans l'intérêt de conserver votre dossier d'information de jeu, vous devrez installer la version la plus récente de ALL pour continuer de l'utiliser.",
+    "depOutdated": "{$0} à détecté que la version de{$1} que vous utilisez est devenu vraiment dépassée. Dans l'intérêt de conserver votre dossier d'information de jeu, vous devrez installer la version la plus récente de  {$0} pour continuer de l'utiliser.",
+    "fatalError": "{$0} a rencontré une erreur qui l'empêche de fonctionner. Veuillez fermer votre jeu et renseigner les utilisateurs du forum {$0} sur le sujet de votre erreur.",
+    "integrityError": "Une modification enfante pour {$0} pourrait endommager votre dossier d'information de jeu. Veuillez vérifier leur fonctionnement une à la fois pour trouver celui qui cause le problème pour que vous puissiez l'enlever."
+}
